@@ -1,5 +1,6 @@
-![IMG_0155](https://github.com/umartynenko/xCodeCleaner_feedback/assets/99603403/b570f4a6-44ec-4036-ad34-38a7ce0ff770)
+![IMG_0152](https://github.com/umartynenko/xCodeCleaner_feedback/assets/99603403/31080526-ba54-480b-af10-00b8d8171eac)
 # xCodeCleaner
+
 
 ## xCodeCleaner: Очистите ваш Mac от ненужных файлов Xcode
 
