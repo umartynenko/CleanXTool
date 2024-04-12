@@ -1,5 +1,7 @@
-![IMG_0152](https://github.com/umartynenko/xCodeCleaner_feedback/assets/99603403/c46ce74f-4075-4b3d-90ca-751c3d702542)
-# xCodeCleaner
+![512-mac](https://github.com/umartynenko/xCodeCleaner_feedback/assets/99603403/55af1446-5f66-426f-b363-ae03f9c398da)
+
+# xCodeCleaner!
+
 
 
 
