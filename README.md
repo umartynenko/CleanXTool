@@ -1,6 +1,6 @@
-![512-mac](https://github.com/umartynenko/CleanXTool/assets/99603403/ba702ab9-22f9-4f41-896c-a3ea4916f995)
 
-<img src="https://github.com/umartynenko/CleanXTool/assets/99603403/ba702ab9-22f9-4f41-896c-a3ea4916f995" width="512" height="512" style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="https://github.com/umartynenko/CleanXTool/assets/99603403/ba702ab9-22f9-4f41-896c-a3ea4916f995" width="512" height="512" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
 
 
 # CleanXTool!
